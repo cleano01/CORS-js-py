@@ -1,8 +1,7 @@
-import cors from 'cors'
+export const requests = {
 
+    origin: ["http://localhost:8000"],
+    methods: ["GET", "POST", "PUT", "DELETE"],
 
-exports.filters = () => {
+}
 
-    return cors()
-
-};

@@ -3,8 +3,7 @@ const bookRouter = express.Router()
 
 
 bookRouter.route('/list').get((req, res)=>{
-    
-    res.send('list of all books');
+    res.send('--list of all books--');
 
 })
 

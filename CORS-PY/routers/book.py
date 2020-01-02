@@ -1,9 +1,11 @@
 from fastapi import APIRouter
+import requests
 router = APIRouter()
 
 @router.get("/")
 async def read_root():
-    return {"Hello": "World"}
+    r =  requests.get('http://localhost:3000/api/book/list')
+    return {r.text}
 
 
 @router.get("/items/{item_id}")
