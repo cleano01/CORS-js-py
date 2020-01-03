@@ -2,7 +2,7 @@
 Estudo sobre o CROS
 
 
-##### Instalando bibliotecas no diretório CORS-JS
+#### Instalando bibliotecas no diretório CORS-JS
 -----------------
 
 
@@ -10,7 +10,7 @@ Estudo sobre o CROS
     
     
 
-Instalando bibliotecas no diretório CORS-PY
+#### Instalando bibliotecas no diretório CORS-PY
 -----------------
 
 
@@ -18,7 +18,7 @@ Instalando bibliotecas no diretório CORS-PY
     
     
 
-Executando o CORS-JS
+#### Executando o CORS-JS
 -----------------
 Entre no diretório do rojeto e crie um segundo diretório */dist* no projeto
 
@@ -32,7 +32,7 @@ Entre no diretório do rojeto e crie um segundo diretório */dist* no projeto
     
     
 
-Executando o CORS-PY
+#### Executando o CORS-PY
 -----------------
 Entre no diretório do projeto 
 
@@ -45,7 +45,7 @@ Entre no diretório do projeto
 
 
 
-Estrutura 
+#### Estrutura 
 -----------------
 ::
 
