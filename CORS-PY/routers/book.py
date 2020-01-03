@@ -10,5 +10,5 @@ async def read_root():
 
 @router.get("/book_py")
 async def read_item():
-    return {"book": "list py"}
+    return {"list of all book of python"}
 

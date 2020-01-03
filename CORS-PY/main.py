@@ -6,7 +6,7 @@ app = FastAPI()
 
 
 origins = [
-    "http://exemplo.com.br"
+    "*"
 ]
 
 app.add_middleware(
@@ -16,5 +16,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 app.include_router(book.router)
