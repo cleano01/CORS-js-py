@@ -5,9 +5,7 @@ from starlette.middleware.cors import CORSMiddleware
 app = FastAPI()
 
 
-origins = [
-    "*"
-]
+origins = ["http://localhosasast:3001"]
 
 app.add_middleware(
     CORSMiddleware,
