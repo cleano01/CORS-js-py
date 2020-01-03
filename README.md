@@ -7,16 +7,20 @@ Instalando bibliotecas no diretório CORS-JS
 
 
     npm install
+    
+    
 
 Instalando bibliotecas no diretório CORS-PY
 -----------------
 
 
     pip install -r requirements.txt
+    
+    
 
 Executando o CORS-JS
 -----------------
-Antes de excutar crie o um diretorio */dist* no projeto
+Entre no diretório do rojeto e crie um segundo diretório */dist* no projeto
 
 
     npm run watch
@@ -25,6 +29,20 @@ Antes de excutar crie o um diretorio */dist* no projeto
 *Em outro terminal execute o camando abaixo*
 
     npm run start
+    
+    
+
+Executando o CORS-PY
+-----------------
+Entre no diretório do rojeto 
+
+
+    source cros-py/bin/activate
+
+*E em seguida execute o comando abaixo*
+
+    uvicorn main:app --reload
+
 
 
 Estrutura 
