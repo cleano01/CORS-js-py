@@ -14,6 +14,17 @@ Instalando bibliotecas no diretório CORS-PY
 
     pip install -r requirements.txt
 
+Executando o CORS-JS
+-----------------
+Antes de excutar crie o um diretorio */dist* no projeto
+
+
+    npm run watch
+
+
+*Em outro terminal execute o camando abaixo*
+
+    npm run start
 
 
 Estrutura 
