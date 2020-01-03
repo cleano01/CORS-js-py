@@ -2,6 +2,13 @@
 Estudo sobre o CROS
 
 
+Instalando bibliotecas no diretório CORS-JS
+-----------------
+.. code-block:: bash
+
+    npm install
+
+
 
 Estrutura 
 -----------------
