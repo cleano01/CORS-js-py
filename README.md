@@ -8,6 +8,12 @@ Instalando bibliotecas no diretório CORS-JS
 
     npm install
 
+Instalando bibliotecas no diretório CORS-PY
+-----------------
+
+
+    pip install -r requirements.txt
+
 
 
 Estrutura 
