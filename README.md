@@ -34,7 +34,7 @@ Entre no diretório do rojeto e crie um segundo diretório */dist* no projeto
 
 Executando o CORS-PY
 -----------------
-Entre no diretório do rojeto 
+Entre no diretório do projeto 
 
 
     source cros-py/bin/activate
