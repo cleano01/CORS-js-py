@@ -1,5 +1,5 @@
 # CROS-js-py
-Estudo sobre o CROS
+Estudo sobre o CROS(Cross-origin resource sharing / Compartilhamento de recursos de origem cruzada)
 
 
 #### Instalando bibliotecas no diretório CORS-JS
