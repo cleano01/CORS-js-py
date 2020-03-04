@@ -62,7 +62,6 @@ Entre no diretório do projeto
     ├── routers          - armazenamento de rotas.
     ├── cros-py          - diretório do vitualenv
     ├── main             - aquivo onde executamos o projeto
-    ├── .babelrc         - arquivo de configuração ES6
 
     
     
